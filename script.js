@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const popup = document.querySelector('.popup');
     const acceptBtn = document.querySelector('#acceptBtn');
     const declineBtn = document.querySelector('#declineBtn');
-    const affiliateLink = 'https://bdc66yxdpncq2r0ghnea5e1y3m.hop.clickbank.net?lid=6100';
+    const affiliateLink = 'https://hop.clickbank.net/?affiliate=aolbr&vendor=gluco247&lpg=tsl&ver=tsl&ap=1&ep=1';
 
     // Função para redirecionar ao interagir com a página
     function redirectToAffiliate() {
